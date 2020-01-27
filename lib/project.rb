@@ -12,9 +12,10 @@ class Project
     #l = Backer.new(backer)
     #l.back_project(self)
     
-    
-    
     @backers << backer
+    
+     backer.
+    
   end
   
 end
